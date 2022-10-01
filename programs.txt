@@ -61,3 +61,5 @@ Coderpad              https://coderpad.io/vulnerability-disclosure-policy/      
 Hunny.finance         https://docs.hunny.finance/security/bug-bounty-program                                             Yes                       No 
     30 Day
   
+Apple                 https://developer.apple.com/security-bounty/                                                       yes                       yes                   30Day
+Google                https://bughunters.google.com/                                                                      yes                     yes 
